@@ -177,8 +177,8 @@ button {
 
 button, a.button {
     display: inline-block;
-    background-color: rgba(183, 88, 88, 1);
-    border: 1px solid rgba(183, 88, 88, 1);
+    background-color: #036;
+    border: 1px solid #036;
     color: #fff;
     padding: 0.75em 1em;
     border-radius: 0.32em;
@@ -191,14 +191,14 @@ button, a.button {
 
 button.alt, a.button.alt {
     background-color: transparent;
-    border: 1px solid #rgba(183, 88, 88, 1);
-    color: #rgba(115, 65, 65, 1);
+    border: 1px solid #036;
+    color: #036;
 }
 
 button:hover, a.button:hover {
-    background-color: rgba(115, 65, 65, 1);
+    background-color: #003;
     color: #fff;
-    border-color: rgba(115, 65, 65, 1);
+    border-color: #003;
     text-decoration: none;
 }
 
