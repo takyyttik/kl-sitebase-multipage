@@ -191,8 +191,8 @@ button, a.button {
 
 button.alt, a.button.alt {
     background-color: transparent;
-    border: 1px solid #rgba(183, 88, 88, 1);
-    color: #rgba(115, 65, 65, 1);
+    border: 1px solid rgba(183, 88, 88, 1);
+    color: rgba(115, 65, 65, 1);
 }
 
 button:hover, a.button:hover {
